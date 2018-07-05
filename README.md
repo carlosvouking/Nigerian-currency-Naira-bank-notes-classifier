@@ -1,6 +1,6 @@
 # Nigerian-currency-Naira-bank-notes-classifier
 Hands on Image Classification using the FAST.AI  library for Nigerian currency: Naira bank notes.
-I attempted to train a model without and with data augmentation in order to distinguish and compare the losses and accuracies in both cases.
+I attempted to train a model without and with data augmentation in order to distinguish and analyse the losses and accuracies in both cases.
 
 * Main interesting points to recall in building this classifier:
 
