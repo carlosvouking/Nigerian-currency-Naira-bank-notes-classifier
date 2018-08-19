@@ -21,7 +21,7 @@ I attempted to train a model without and with data augmentation in order to dist
      . The classifier ended up being able to predict new images input with an accuracy of 99.17 %.
      
     
-Challenge: further analysis on different currencies's type will be done to corroborate these results.  
+Challenge: further analysis on different currencies' type will be done to corroborate these results.  
     
      
      
